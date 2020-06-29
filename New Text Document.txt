@@ -1,0 +1,6 @@
+00100,00110011aA,false
+DjagaraDjugara,asdfghjklA1,false
+qkpustinqk,PUSTINQKQK1,false
+Pust,pustqkconBG1,false
+Con,golemqkconBG1,false
+mnogoqkpustinqk,Mnogoqkpustinqk1,false
